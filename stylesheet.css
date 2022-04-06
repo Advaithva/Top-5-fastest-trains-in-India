@@ -1,0 +1,96 @@
+.m18out {
+	float:right;
+	
+}
+
+.Train18 {
+	Background-color:#e4f5fa;
+	padding:50px;
+}
+
+.gatimaan {
+	float:right;
+}
+
+.HNDS {
+	float:right;
+}
+
+body {
+	margin:0px;
+	padding:0px;
+}
+
+.main {
+	padding:50px;
+	background-image:url(https://th.bing.com/th/id/OIP.9g-gJqPOINogUVcfFYwpCAHaHa?pid=ImgDet&rs=1);
+	background-size:cover;
+	background-position:center;
+	background-blend-mode: lighten;
+	background-color: rgba(186,244,250,0.82);
+}
+
+.GatimaanExp {
+	Background-color:#e4f5fa;
+	padding:50px;
+}
+
+.Habibganj_ND_Shatabdi {
+	Background-color:#e4f5fa;
+	padding:50px;
+}
+
+.head {
+	font-size:63px;
+	padding:3.6cm;
+	background-image:url(https://www.wallpapertip.com/wmimgs/155-1554570_indian-train-images-hd.jpg);
+	background-size:cover;
+	background position:center center;
+	background-blend-mode: lighten;
+	background-color: rgba(186,244,250,0.8);
+	
+}
+
+.head h1 {
+
+	opacity:1;
+}
+
+.MNDR {
+	Background-color:#e4f5fa;
+	padding:50px;
+}
+
+.MNDR img {
+	float:right;
+}
+
+img {
+	padding:10px;
+	float:right;
+}
+
+
+.SDnHR {
+	Background-color:#e4f5fa;
+	padding:50px;
+}
+
+html {
+	scroll-behaviour:smooth;
+}
+
+hr {
+	border:3px inset red;
+}
+
+
+
+.kkk li {
+	float:left;
+	padding-right: 67.45px ;
+	padding-bottom:22.98px;
+	padding-left:67.45px;
+	font-size:24px;
+	background-color:#12adef;
+}
