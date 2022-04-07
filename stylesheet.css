@@ -94,3 +94,7 @@ hr {
 	font-size:24px;
 	background-color:#12adef;
 }
+
+.hrhr {
+	border:dashed red 3px;
+}
