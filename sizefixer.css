@@ -1,11 +1,11 @@
-@media (max-width:670px) {
+@media (max-width: 670px) {
  iframe {
     width:30%;
     height:25%;
  }
   
 }
-@media (max-width:1170px) {
+@media (max-width: 1170px) {
  iframe {
     width:25cm;
     height:15cm;
